@@ -4,11 +4,11 @@
 
 ## Info
 
-- Dates: 14th of October 2024 to 15th of January 2025
-- Mid-crit: 7th of November 2024
-- Final jury: 15th of January 2025
-- Professors: Alexia Mathieu, Douglas Edric Stanley, Laure Krayenbühl, Pierre Rossel
-- Assistant: Pablo Bellon
+- 31/3 ~ 1/4 : observation
+- 28/4 ~ 30/4 : plan
+- 26/5 ~ 28/5 : make
+- submission deadline: 2025-11-30
+- defense: mid february 2026
 
 ## Process
 

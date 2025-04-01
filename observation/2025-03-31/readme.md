@@ -33,7 +33,7 @@
   - People coming in and out of the restaurant
   - Servers moving around the restaurant to serve food
 
-| ![image](./images/IMG_7417.JPG) | ![image](./images/IMG_7418.JPG) | ![image](./images/IMG_7419.JPG) |
+| ![image](./images/IMG_7417.jpg) | ![image](./images/IMG_7418.jpg) | ![image](./images/IMG_7419.jpg) |
 | ------------------------------- | ------------------------------- | ------------------------------- |
 
 ---
@@ -55,7 +55,7 @@
   - People walking on the pedestrian road
   - People riding bikes passing the road
 
-| ![image](./images/IMG_7428.JPG) | ![image](./images/IMG_7429.JPG) | ![image](./images/IMG_7430.JPG) |
+| ![image](./images/IMG_7428.jpg) | ![image](./images/IMG_7429.jpg) | ![image](./images/IMG_7430.jpg) |
 | ------------------------------- | ------------------------------- | ------------------------------- |
 
 ---
@@ -72,7 +72,7 @@
   - People running to the ambulance
   - People standing around the ambulance
 
-| ![image](./images/IMG_7436.JPG) | ![image](./images/IMG_7437.JPG) |
+| ![image](./images/IMG_7436.jpg) | ![image](./images/IMG_7437.jpg) |
 | ------------------------------- | ------------------------------- |
 
 ---
@@ -98,10 +98,10 @@
   - People crossing the road to take the tram
   - People waiting for the tram
 
-| ![image](./images/IMG_7438.JPG) | ![image](./images/IMG_7439.JPG) | ![image](./images/IMG_7441.JPG) |
+| ![image](./images/IMG_7438.jpg) | ![image](./images/IMG_7439.jpg) | ![image](./images/IMG_7441.jpg) |
 | ------------------------------- | ------------------------------- | ------------------------------- |
 
-| ![image](./images/IMG_7443.JPG) | ![image](./images/IMG_7444.JPG) | ![image](./images/IMG_7445.JPG) |
+| ![image](./images/IMG_7443.jpg) | ![image](./images/IMG_7444.jpg) | ![image](./images/IMG_7445.jpg) |
 | ------------------------------- | ------------------------------- | ------------------------------- |
 
 ---
@@ -127,10 +127,10 @@
   - People walking
   - People riding bikes
 
-| ![image](./images/IMG_7448.JPG) | ![image](./images/IMG_7450.JPG) | ![image](./images/IMG_7451.JPG) |
+| ![image](./images/IMG_7448.jpg) | ![image](./images/IMG_7450.jpg) | ![image](./images/IMG_7451.jpg) |
 | ------------------------------- | ------------------------------- | ------------------------------- |
 
-| ![image](./images/IMG_7452.JPG) | ![image](./images/IMG_7453.JPG) |
+| ![image](./images/IMG_7452.jpg) | ![image](./images/IMG_7453.jpg) |
 | ------------------------------- | ------------------------------- |
 
 ---
@@ -148,7 +148,7 @@
 - **Flow of People**:
   - People walking
 
-| ![image](./images/IMG_7454.JPG) | ![image](./images/IMG_7455.JPG) |
+| ![image](./images/IMG_7454.jpg) | ![image](./images/IMG_7455.jpg) |
 | ------------------------------- | ------------------------------- |
 
 ---
@@ -174,7 +174,7 @@
   - People playing with balls
   - People walking their dogs
 
-| ![image](./images/IMG_7458.JPG) | ![image](./images/IMG_7459.JPG) | ![image](./images/IMG_7462.JPG) |
+| ![image](./images/IMG_7458.jpg) | ![image](./images/IMG_7459.jpg) | ![image](./images/IMG_7462.jpg) |
 | ------------------------------- | ------------------------------- | ------------------------------- |
 
 ---
@@ -200,10 +200,10 @@
   - People riding bikes
   - People getting out of the tram
 
-| ![image](./images/IMG_7465.JPG) | ![image](./images/IMG_7466.JPG) |
+| ![image](./images/IMG_7465.jpg) | ![image](./images/IMG_7466.jpg) |
 | ------------------------------- | ------------------------------- |
 
-| ![image](./images/IMG_7467.JPG) | ![image](./images/IMG_7471.png) |
+| ![image](./images/IMG_7467.jpg) | ![image](./images/IMG_7471.png) |
 | ------------------------------- | ------------------------------- |
 
 ---
@@ -223,7 +223,7 @@
 - **Atmosphere & Feeling**:
   - Quiet & calm
 
-| ![image](./images/IMG_7468.JPG) | ![image](./images/IMG_7470.JPG) |
+| ![image](./images/IMG_7468.jpg) | ![image](./images/IMG_7470.jpg) |
 | ------------------------------- | ------------------------------- |
 
 ---
