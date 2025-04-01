@@ -223,7 +223,7 @@
 - **Atmosphere & Feeling**:
   - Quiet & calm
 
-| ![image](./images/IMG_7468.jpg) | ![image](./images/IMG_7470.jpg) |
+| ![image](./images/IMG_7468.JPG) | ![image](./images/IMG_7470.JPG) |
 | ------------------------------- | ------------------------------- |
 
 ---
