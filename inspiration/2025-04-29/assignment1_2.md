@@ -5,7 +5,7 @@
 
 ---
 
-## Living Networks: Reimagining Digital Space, Data, and Belonging
+# Living Networks: Reimagining Digital Space, Data, and Belonging
 
 ### Topic & Definition
 
@@ -39,7 +39,7 @@
 
 ---
 
-## Relationship between visible and invisible
+# Relationship between visible and invisible
 
 ### Topic & Definition
 
