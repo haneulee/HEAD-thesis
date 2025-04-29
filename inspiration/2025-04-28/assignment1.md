@@ -13,6 +13,8 @@
 | **Alive personal data**       | Most people today live alongside their personal data. It reimagines personal data such as steps taken, emotional fluctuations, or location history as organic, dynamic entities that grow, decay, and evolve, allowing users to experience their data as a living, emotional extension of their lives. |
 | **New Forms of Family**       | As traditional family structures and communal living models decline, individuals increasingly live alone yet remain invisibly connected through digital networks. It explores how new forms of belonging and community can emerge in a post-family society.                                            |
 
+music(sound), corals, radio waves
+
 ---
 
 # Topic 1: **Spatializing the Internet**
@@ -38,6 +40,7 @@
 
 - [A hacked toy used to evoke unpredictable behavior](https://gtcsys.com/design-system-for-spatial-ui-ux-kit-apple-vision-pro/?utm_source=chatgpt.com)
 - [Mozilla Hubs](https://blog.mozilla.org/en/mozilla/mozilla-hubs-3d-vr-platform/)
+- [This browser allows users to view websites in 3D](https://www.hindustantimes.com/world-news/this-browser-allows-users-to-view-websites-in-3d/story-ts6MPeGeuEAGdR8b7cPleL.html)
 
 ---
 
