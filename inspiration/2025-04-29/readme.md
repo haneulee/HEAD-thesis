@@ -1,4 +1,4 @@
-# # 2025-04-29
+# 2025-04-29
 
 ## Interview tips
 
@@ -23,3 +23,20 @@ IMSI catcher:
 ### presentation
 
 intention, question, first step of my research,
+
+## feedback for Assignment 1
+
+Relationship between invisible and visible is also related to Living networks idea.
+There must be something in the first idea. I can look into communities in the digital space from perspective of East Asian societies.
+
+### Reference
+
+- [Transcendent Man](https://en.wikipedia.org/wiki/Transcendent_Man)
+- [Burning Chrome](https://en.wikipedia.org/wiki/Burning_Chrome)
+- [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer)
+- [Second Life](https://en.wikipedia.org/wiki/Second_Life)
+- [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)
+- [We Live in Public](https://en.wikipedia.org/wiki/We_Live_in_Public)
+- [Yuk Hui](https://en.wikipedia.org/wiki/Yuk_Hui)
+
+- [How Post-Familism Will Shape the New Asia](https://www.forbes.com/sites/joelkotkin/2016/11/30/how-post-familism-will-shape-the-new-asia/)
