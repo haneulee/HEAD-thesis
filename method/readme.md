@@ -1,18 +1,24 @@
 # Living Networks: Seeking New Belongings in a Post-Family Korean Society
 
+<!-- Alternate title: The Feeling Web: Digital Kinship and the Poetics of Online Belonging -->
+
 ## 1. Research Question
 
-- How can immersive 3D digital environments offer alternative forms of emotional belonging beyond traditional family structures, especially in the context of Korean society?
+- How can immersive and poetic digital environments offer alternative forms of emotional belonging beyond traditional family structures, especially in the context of Korean society?
 - In what ways can personal presence and data evolve into living, communal entities within digital ecosystems?
 - How does the cultural perception of family, community, and isolation in South Korea shape the need for new digital social environments?
 
 ## 2. Motivation
 
-South Korea is experiencing a rapid shift from traditional family-centered values to a society where single-person households, non-marriage, and individualism are on the rise. Yet, the emotional need for connection and belonging persists. In a society where cohabitation before marriage is still stigmatized and social frameworks struggle to accommodate alternative lifestyles, new forms of community are urgently needed.
+Contemporary South Korean society is undergoing a major transformation in how people form relationships and communities. While traditional family-centered structures are dissolving—with rising numbers of single-person households, declining marriage rates, and increased individualism—emotional needs for connection and belonging remain constant.
 
-This project explores how personal data—emotional fluctuations, routines, digital footprints—can be transformed into living, evolving organisms in a 3D digital environment. These organisms interact, grow, and connect with others to form emotionally resonant networks that act as alternative social structures or “digital families.”
+However, the ways people relate to each other are shifting. In today’s networked society, social relationships often take the form of index relationships—strategic, surface-level connections based on visibility, efficiency, and functionality. These types of ties prioritize optimized communication over emotional depth. People recognize one another through likes, emojis, and digital presence, yet seldom share genuine intimacy or deep emotional resonance.
 
-The project combines speculative design and emotional data visualization with critical reflections on post-family society to explore how digital worlds might enable new forms of communal belonging.
+This project begins with a critical response to that condition. Instead of accepting that our online ties must remain shallow or transactional, it explores how digital environments might grow deeper roots—creating new emotional ecosystems for care, companionship, and alternative kinship.
+
+Inspired by Laurel Schwulst’s poetic metaphor of the website as “a shifting house next to a river of knowledge,” this project imagines digital spaces not as fixed tools or dashboards, but as soft, evolving habitats. Here, personal data—emotional fluctuations, routines, digital footprints—becomes the soil from which living, emotionally responsive organisms emerge.
+
+These organisms—shaped by personal experiences yet socially entangled—interact, grow, and form resonant networks that resemble emotional communities or “digital families.” The project proposes that in a society where institutional belonging is failing, we can design digital environments that feel not only functional, but alive.
 
 ## 3. References (Literature & Projects)
 
@@ -20,23 +26,27 @@ The project combines speculative design and emotional data visualization with cr
 
 - **Ulrich Beck & Elisabeth Beck-Gernsheim**, _Individualization_ (2002)
 - **Yuk Hui**, _The Question Concerning Technology in China_ (2016)
+- **Sherry Turkle**, _Alone Together_ (2011)
 
-### Media
+### Media & Web Culture
 
 - **Omar Kholeif**, _Internet Art: From the Birth of the Web to the Rise of NFTs_ (2023)
 - **William Gibson**, _Neuromancer_ (1984)
 - **Ondi Timoner**, _We Live in Public_ (2009)
+- **Laurel Schwulst**, _My Website is a Shifting House Next to a River of Knowledge_ (2018)
 
-### Data & Machine
+### Design, Data & Machine Life
 
 - **Dunne & Raby**, _Design Noir: The Secret Life of Electronic Objects_ (2001)
 - **Peter Hall & Patricio Dávila**, _Critical Visualization_ (2022)
+- **Jennifer Gabrys**, _Digital Rubbish_ (2011)
 
 ### Artworks
 
 - **TeamLab**, _Resonating Microcosms_
 - **Refik Anadol**, _Living Architecture_
 - **Daniel Rozin**, _Mechanical Mirrors_
+- **Mozilla Hubs**, _3D Social World Platform_
 
 ## 4. Methodology
 
