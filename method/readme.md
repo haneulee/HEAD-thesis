@@ -110,3 +110,10 @@ These organisms—shaped by personal experiences yet socially entangled—intera
 - The transformation of family structures
 - Technopoetics and speculative design
 - Interface and interaction design
+
+## Feedback
+
+- Online ethnography
+- compare with western online platforms like 'second life'
+- Korean references (academic papers, books, etc.) in terms of sociology
+- do observation in digital spacesbefore reading references
