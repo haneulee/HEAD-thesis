@@ -1,12 +1,14 @@
-# Living Networks: Seeking New Belongings in a Post-Family Korean Society
-
-<!-- Alternate title: The Feeling Web: Digital Kinship and the Poetics of Online Belonging -->
+# Living Networks: Belonging Beyond Family in Korea
 
 ## 1. Research Question
 
-- How can digital spaces offer emotional belonging beyond traditional families?
+<!-- - How can digital spaces offer emotional belonging beyond traditional families?
 - How can personal data become a living, shared presence online?
-- Why are new forms of digital community especially needed in Korean society?
+- Why are new forms of digital community especially needed in Korean society? -->
+
+- How can the digital community experiences of Korean youth be conceptualized as a new relational theory of the “living network”?
+- In what ways do platform-specific modes of interaction (non-verbal signals, avatars, simultaneous experiences) generate emotional bonds of “families that are not families”?
+- How does the tension between Korea’s collectivist culture and the process of individualization produce distinctive forms of community in digital spaces?
 
 ## 2. Motivation
 
@@ -116,4 +118,4 @@ These organisms—shaped by personal experiences yet socially entangled—intera
 - Online ethnography
 - compare with western online platforms like 'second life'
 - Korean references (academic papers, books, etc.) in terms of sociology
-- do observation in digital spacesbefore reading references
+- do observation in digital spaces before reading references
