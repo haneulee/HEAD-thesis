@@ -1,4 +1,7 @@
-# Community Survey Results
+# Online Community Survey Results
+
+[Survey link in Korean](https://forms.gle/7sP8h2Hu6h9JmFVh9)  
+[Survey link in English](https://forms.gle/tY25KRRn1jgTdid660)
 
 ## What is your age group?
 
