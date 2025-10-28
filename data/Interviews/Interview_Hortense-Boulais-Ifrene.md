@@ -103,94 +103,47 @@ Still, small friend groups rarely sustain themselves long in pure metaverses unl
 
 ---
 
-## Interview Insights
+## interview insights
 
-### 1. **‘감정의 수행(performance of intimacy)’**
+### 1. **‘디지털 디아스포라(Digital Diaspora)’ 개념**
 
-> **Loeva:** “Online, intimacy isn’t just felt — it’s performed. Through emojis, gestures, avatars, we perform care and emotion.”
-> _(온라인에서 친밀함은 단순히 ‘느껴지는 것’이 아니라 ‘수행되는 것’이다. 우리는 이모티콘, 제스처, 아바타를 통해 감정과 돌봄을 수행한다.)_
+- Hortense는 가상세계가 사라질 때 사용자들이 흩어지지 않고 **다른 플랫폼으로 공동 이동하는 현상**을 관찰했다고 설명함.
+- 이 현상은 단순한 “이용자 이탈”이 아니라 **정서적 공동체의 이주(emotional migration)** 로 이해될 수 있음.
+- → 이는 한국 청년들이 특정 플랫폼(예: Zepeto, KakaoTalk 오픈채팅 등)을 떠나더라도 **관계망을 이동시키는 방식**과 유사함.
+- **논문 적용 포인트:**
 
-- **분석:**
-
-  - 감정은 디지털 인터페이스를 통해 **시각적·행동적으로 연기(performed)** 됨.
-  - 사용자는 플랫폼 안에서 감정을 **‘디자인’하고 ‘행동화’** 함으로써 관계를 형성.
-  - **논문 활용 포인트:**
-
-    > “디지털 친밀성은 표현이 아니라 수행이다. 사용자는 감정을 시각화하고 연기함으로써 관계를 만든다.”
+  > “디지털 플랫폼의 지속성은 기술적 요인보다 사회적 결속에 달려 있다. 온라인 가족성은 ‘공간’이 아니라 ‘함께 움직이는 관계’로 정의된다.”
 
 ---
 
-### 2. **‘대안 가족(alternative families)’과 감정의 프로토타이핑**
+### 2. **‘모각코(Mogaku)’의 사회문화적 함의**
 
-> **Haneul:** “In Zepeto, I saw users forming virtual families — parents, siblings, even kids.”
-> **Loeva:** “That’s performative belonging. People build emotional structures they miss offline. It’s like emotional prototyping.”
-> _(그건 수행적 소속감이에요. 사람들은 현실에서 결핍된 감정 구조를 온라인에서 만든다. 일종의 감정 프로토타이핑이죠.)_
+- 한국의 ‘모각코(모여서 각자 코딩/공부)’ 문화는 Hortense에게 매우 낯설게 느껴졌음.
+- 그녀는 이를 “비대화적 친밀성(non-verbal intimacy)”의 사례로 이해함.
+- 즉, 대화나 교류 없이 **공간적 동시성(spatial co-presence)** 만으로도 정서적 안정감을 얻는 형태.
+- **논문 적용 포인트:**
 
-- **분석:**
-
-  - 가상 가족 형성은 단순한 놀이가 아니라 **현실의 감정 구조를 재현·실험하는 사회적 장치**.
-  - **논문 활용 포인트:**
-
-    > “가상 가족은 감정적 결핍을 보완하는 ‘정서 실험실’로 기능한다.”
+  > “한국적 친밀성은 상호작용보다 ‘공존’의 감각을 통해 형성된다. 이는 서구의 개인주의적 사회성 개념과 구분되는 디지털 친밀성 모델이다.”
 
 ---
 
-### 3. **정체성 실험과 젠더 전환**
+### 3. **‘플랫폼 생명주기’의 사회적 차원**
 
-> **Loeva:** “I talked with male players who use female avatars. They said people are nicer to you, sometimes they even give you gifts. It’s practical, but also a way to explore gender roles.”
-> _(여성 아바타를 사용하는 남성 플레이어들과 이야기했어요. 그들은 사람들이 더 친절하게 대한다고 말했죠. 단순히 이득을 위해서가 아니라 성 역할을 탐구하는 방식이기도 해요.)_
+- 플랫폼의 흥망성쇠는 기술이나 자본의 문제가 아니라 **사용자 네트워크의 이동성**에 따라 결정된다고 강조함.
+- “사람들은 기술이 아니라 친구를 따른다.”
+- → 사회적 리듬(social rhythm)이 디지털 생태계의 핵심.
+- **논문 적용 포인트:**
 
-- **분석:**
-
-  - 디지털 정체성은 **젠더와 사회적 관계를 재실험하는 도구**.
-  - 특히 억압적 규범이 강한 사회에서는 **디지털 공간이 안전한 자기 표현의 실험실** 역할을 함.
-  - **논문 활용 포인트:**
-
-    > “디지털 공간은 억압된 정체성이 재구성되는 감정적 실험장이다.”
+  > “플랫폼의 수명은 기술적 혁신보다 ‘공동체의 지속 가능성’에 의해 좌우된다. 이는 온라인 가족성이 얼마나 강한 정서적 결속을 만들어내는지에 따라 달라진다.”
 
 ---
 
-### 4. **LGBTQ+ 행진과 온라인 퀴어 연대**
+### 4. **‘목적이 있는 친밀성’**
 
-> **Loeva:** “In some video games, players organize pride parades — virtual marches for LGBTQ+ rights. It’s a mix of activism and play, but it shows that online worlds can host political emotions too.”
-> _(일부 비디오게임에서는 플레이어들이 LGBTQ+ 프라이드 퍼레이드를 조직해요. 그것은 놀이이자 행동주의이고, 온라인 세계도 정치적 감정을 담을 수 있음을 보여줍니다.)_
+- 디지털 관계는 단순한 유희가 아니라 **공유된 목적(shared purpose)** 에 의해 유지됨.
+- 예: 게임, 협업, 공부 등 명시적 목적이 있을 때 친밀성이 지속됨.
+- **논문 적용 포인트:**
 
-- **분석:**
-
-  - 온라인 공간은 단순한 놀이의 장을 넘어 **정치적 감정(affective politics)** 의 플랫폼으로 기능.
-  - 퀴어 퍼레이드는 **공동 수행(performance of solidarity)** 이자 **감정적 집단행동(emotional activism)**.
-  - **논문 활용 포인트:**
-
-    > “디지털 친밀성은 개인적 감정에서 집단적 정동으로 확장된다.”
+  > “디지털 친밀성은 기능적 협업에서 비롯된 감정적 결속으로 발전한다. 온라인 공동체는 ‘의미 없는 교류’가 아닌 ‘목적 중심의 유대’로 형성된다.”
 
 ---
-
-### 5. **‘인간성의 회복’ 역설**
-
-> **Loeva:** “Even behind avatars, people form real bonds. Humanity always finds its way back.”
-> _(아바타 뒤에서도 사람들은 진짜 관계를 형성한다. 결국 인간성은 돌아온다.)_
-
-- **분석:**
-
-  - 온라인 관계는 인공적 매개를 통해 오히려 **인간적 감정의 복원(reclaiming humanity)** 을 실현.
-  - **논문 활용 포인트:**
-
-    > “기술적 매개는 인간성을 대체하는 것이 아니라 되찾는 과정이다.”
-
----
-
-### 6. **‘시각적 감정 언어(Visual Affective Language)’**
-
-> **Loeva:** “Younger users don’t just write. They use images, colors, and gestures as emotional grammar.”
-> _(젊은 세대는 단어를 쓰지 않아요. 이미지를 감정의 문법으로 사용하죠.)_
-
-- **분석:**
-
-  - 한국처럼 언어적 억제가 강한 사회에서 **이모티콘·색상·몸짓**은 감정 표현의 새로운 문법으로 작동.
-  - **논문 활용 포인트:**
-
-    > “한국의 디지털 친밀성은 시각적 감정 언어를 통해 수행된다.”
-
----
-
-**End of Interview**

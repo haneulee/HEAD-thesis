@@ -85,6 +85,8 @@ Designers must also think about context — transparency, responsibility. No dar
 
 ---
 
+## Interview Insights
+
 ### 1. **그래픽 기반의 감정 표현 — 디지털 친밀성의 시각적 차원**
 
 > **Nicolas:** “Perhaps for you, the idea is to explore the graphical way of digital intimacy… emotions on digital are very large — motion, colors, abstract graphism.”
